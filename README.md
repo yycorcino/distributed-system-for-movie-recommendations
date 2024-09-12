@@ -1,3 +1,3 @@
-# Dragonfly
+## Distributed System For Movie Recommendations
 
-Developed by: Team (Name 1, Name 2, Name 3)
+Developed by: Sebastian Corcino and Gaozong Lo
