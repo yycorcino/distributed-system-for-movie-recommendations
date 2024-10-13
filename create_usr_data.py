@@ -39,7 +39,9 @@ if __name__ == "__main__":
         '3': ['Romance'],
         '4': ['Action', 'Comedy', 'Crime'],
         '5': ['History', 'Science Fiction', 'Thriller'],
-        '6': ['Drama', 'Fantasy']
+        '6': ['Drama', 'Fantasy'],
+        '7': ['Action', 'Adventure'],
+        '8': ['Animation', 'Drama', 'Family']
     }
 
     # generate list 
