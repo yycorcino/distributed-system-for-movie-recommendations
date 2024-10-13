@@ -9,23 +9,53 @@ user_id,id,title,genre_id,user_rating
 1,299537,Captain Marvel,"[28, 12, 878]",7
 1,573560,The Car: Road to Revenge,"[28, 27, 53, 878]",4
 1,508138,Burn,"[53, 80, 28]",6
-2,,,,
-2,,,,
-2,,,,
-2,,,,
-2,,,,
-2,,,,
-2,,,,
-2,,,,
-2,,,,
-2,,,,
-3,,,,
-3,,,,
-3,,,,
-3,,,,
-3,,,,
-3,,,,
-3,,,,
-3,,,,
-3,,,,
-3,,,,
+2,428045,Iron Mask,"[28, 12, 10751, 14]",10
+2,700391,65,"[28, 12, 878]",10
+2,522931,Hitman's Wife's Bodyguard,"[28, 35, 80, 53]",10
+2,1171532,Rathnam,"[28, 10749]",7
+2,770906,Salaar: Part 1 - Ceasefire,"[28, 80, 18]",9
+2,864692,Pathaan,"[28, 12, 53]",8
+2,938008,The Killer,"[28, 80, 53]",5
+2,617502,Jolt,"[28, 53]",9
+2,736073,"Batman: The Long Halloween, Part One","[16, 9648, 28, 80]",10
+2,663558,New Gods: Nezha Reborn,"[16, 28, 14]",6
+3,508101,Plus One,"[35, 10749]",9
+3,964960,The Taste of Things,"[10749, 18]",7
+3,1248795,Art of Love,"[10749, 28, 18]",6
+3,778496,I Remember,"[10749, 18]",10
+3,503129,Student of the Year 2,"[10749, 35, 18]",5
+3,814338,Lady Chatterley's Lover,"[18, 10749]",5
+3,542417,Skin,"[18, 80, 36, 10749]",8
+3,597219,The Half of It,"[35, 10749, 18]",9
+3,891933,Sometimes I Think About Dying,"[18, 35, 10749]",8
+3,820912,Persuasion,"[10749, 18, 35]",9
+4,1074049,A Moroccan Affair,"[35, 10751]",6
+4,940417,Sadako DX,"[27, 9648, 35]",6
+4,532953,Purl,"[16, 35]",5
+4,766507,Prey,"[53, 28, 878]",6
+4,576004,Porno,"[35, 27]",10
+4,539681,DC League of Super-Pets,"[16, 28, 10751, 35, 878]",10
+4,791373,Zack Snyder's Justice League,"[28, 12, 14]",10
+4,923667,Twilight of the Warriors: Walled In,"[28, 12, 80, 53]",8
+4,529203,The Croods: A New Age,"[16, 10751, 12, 14, 35]",7
+4,1135229,I Am Rage,"[28, 53, 27]",7
+5,471506,Greta,"[9648, 53, 27]",6
+5,539651,Don't Let Go,"[878, 53, 9648, 27]",6
+5,327331,The Dirt,"[18, 10402, 36, 35]",10
+5,468816,The Rising Hawk,"[28, 36, 18]",9
+5,331482,Little Women,"[18, 10749, 36]",6
+5,511819,Memoria,"[18, 878, 9648]",9
+5,977013,Haunting of the Queen Mary,"[27, 53, 9648]",8
+5,631843,Old,"[53, 9648, 27]",9
+5,803114,The Requin,"[27, 9648, 53]",10
+5,949229,Leo,"[28, 80, 53]",8
+6,1058694,Radical,[18],7
+6,997776,"Justice League x RWBY: Super Heroes & Huntsmen, Part One","[16, 28, 14]",7
+6,630211,Samjin Company English Class,"[18, 35]",8
+6,581389,Space Sweepers,"[18, 14, 878]",9
+6,1042216,Mutt,[18],10
+6,287947,Shazam!,"[28, 35, 14]",6
+6,734367,Pretty Young Sister,"[18, 10749]",6
+6,801965,Breaking,"[80, 18, 53]",8
+6,874930,Legend of Deification: King Li Jing,"[28, 14, 12]",6
+6,862965,Emily the Criminal,"[80, 18, 53]",6
